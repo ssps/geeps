@@ -1,4 +1,4 @@
 [submodule "apps/caffe"]
 	path = apps/caffe
 	url = https://github.com/ssps/caffe.git
-	branch = master
+	branch = cui-geeps
